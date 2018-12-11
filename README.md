@@ -1,2 +1,3 @@
-# Simple Android Stopwatch application 
-2018 / October
+#Android Stopwatch
+Simple application written in Java for intro to app-dev course
+2018 - December
